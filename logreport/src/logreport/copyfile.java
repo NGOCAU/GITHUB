@@ -61,7 +61,7 @@ public class copyfile {
 				}
 				System.out.println("flag: " + flag);
 				if (flag == results.size())
-					System.out.println("Serial: " + serial);
+					System.out.println("Serial abc: " + serial);
 				flag = 0;
 
 			}
